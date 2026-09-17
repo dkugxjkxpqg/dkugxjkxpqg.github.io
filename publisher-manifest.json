@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "c4f41ac57a9002c2b2ba8d70",
+  "owner": "dkugxjkxpqg",
+  "repo": "dkugxjkxpqg.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "3457be8fdc84cbafc09d3cc7",
+      "a": "奶油(CreamData)",
+      "b": "加速器官网",
+      "entity": "奶油(CreamData)",
+      "brand": "加速器官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "51157d6a89944e4e2ded24fd6b39d995fb2fab7821d04feb9dd7e7e2f4c94ee4",
+      "content": {
+        "primary_entity": "奶油(CreamData)",
+        "keyword1": "奶油(CreamData)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "奶油(CreamData)支持在常用设备上配置订阅，按设备系统选择对应客户端。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量习惯选定套餐，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐再开始",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别适配个人轻度使用、多设备流媒体与游戏加速，以及团队高流量和定制路由需求。用户可按月付费或选择年付方案，根据在线设备数量和每月流量消耗灵活切换。",
+          "AI_FEATURES_INTRO": "从套餐差异、设备支持和订阅周期三个角度，快速判断哪一档适合自己。",
+          "AI_FEATURES_TITLE": "选择奶油(CreamData)的实用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合一到三台设备日常使用，旗舰版覆盖五台设备和流媒体游戏场景，团队版面向多设备高流量需求。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_2": "按月付费灵活试用，按年付通常有更低的月均成本，适合确定长期使用的用户。",
+          "AI_FEATURE_TITLE_2": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "旗舰版和团队版提供更丰富的节点与带宽选项，团队版还支持定制路由和专属服务。",
+          "AI_FEATURE_TITLE_3": "节点权限随套餐升级",
+          "AI_GUIDE_INTRO": "按选择服务、确认适配要求、配置订阅三步完成奶油(CreamData)的初次使用。",
+          "AI_GUIDE_TITLE": "使用流程三步走",
+          "AI_HERO_INTRO": "奶油(CreamData)提供多档海外加速套餐，覆盖个人设备、家庭多终端和团队办公场景，用户可按流量、设备数和订阅周期选择合适方案。",
+          "AI_HERO_SUBTITLE": "灵活套餐适配多设备加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择",
+          "AI_PLANS_INTRO": "三档套餐在流量额度、设备数量和节点权益上逐级提升，对比后按实际需求选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "访问奶油(CreamData)页面，浏览基础版、旗舰版和团队版的功能差异与付费周期。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数量、流量额度和节点类型，确认与自己的使用场景匹配。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "根据设备系统下载对应客户端，参照客户端内的订阅配置文档导入订阅信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "奶油(CreamData)多档加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合一至两人轻度使用，旗舰版适合多设备与流媒体、游戏需求，团队版面向多人共享或企业路由，按在线设备数与月流量选择即可。",
+          "AI_FAQ_ANSWER_2": "不同套餐支持的在线设备数不同，基础版较少，旗舰版与团队版依次增加，具体以套餐权益说明为准，超出会导致新设备无法连接。",
+          "AI_FAQ_ANSWER_3": "可以。月付灵活、年付更省，按年付方案折算到每月成本更低，长期使用建议直接选年付。",
+          "AI_FAQ_ANSWER_4": "订阅导入后客户端会按周期自动拉取节点信息，一般无需手动更新，若节点有调整，重新导入订阅链接即可恢复。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统版本并安装对应客户端，再导入订阅链接，若连接异常可切换节点或检查本地网络与防火墙设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同版本套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数有区别吗？",
+          "AI_FAQ_QUESTION_3": "可以按月付还是必须年付？",
+          "AI_FAQ_QUESTION_4": "订阅需要经常手动更新吗？",
+          "AI_FAQ_QUESTION_5": "新手第一次使用怎么开始？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "16857731b6bb46a2271a884fa66f15179ed9944aa2122827ea0ee04e4060ca69",
+    "sitemap.xml": "b646a8867961c07901975349891ccbb3423e9a15a3b8fe7528ae1e3b26d86f35",
+    "robots.txt": "76d093bb9c3702b3736832d8c389e53350f046e2dc2b88efe163f44d12663020",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7990bd25f7d09c10cf03263a524ceb349b722b0b001693f74cb372b455017e79"
+}
